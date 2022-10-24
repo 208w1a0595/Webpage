@@ -11,7 +11,7 @@ html{
 }
 
 body{
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpg") no-repeat center;
+    background: url("leaves_bushes_green_174515_3840x2400.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -42,7 +42,7 @@ body{
 
 .navbar.sticky::before {
     content: '';
-    background: url("images/dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
+    background: url("dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
     position: absolute;
     opacity: 1;
     top: -10px;
@@ -132,7 +132,7 @@ body{
 
 .home {
     display: flex;
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpg") no-repeat center;
+    background: url("leaves_bushes_green_174515_3840x2400.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -217,7 +217,7 @@ section .title::after{
 }
 /* about section styling */
 .about{
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpg");
+    background: url("leaves_bushes_green_174515_3840x2400.jpg");
     background-size: 2000px;
 }
 .about .title::after{
@@ -276,7 +276,7 @@ section .title::after{
  .services{
      color: white;
      background:black;
-     background: url("images/leaves_bushes_green_174515_3840x2400.jpg");
+     background: url("leaves_bushes_green_174515_3840x2400.jpg");
      background-size: 2000px;
  }
  .services .title::before{
@@ -321,7 +321,7 @@ section .title::after{
 /* Skills Section Styling */
 
 .skills{
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpg");
+    background: url("leaves_bushes_green_174515_3840x2400.jpg");
     background-size: 2000px;
 }
 
@@ -453,7 +453,7 @@ section .title::after{
 
  /* contact section styling */
  .contact{
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpg");
+    background: url("leaves_bushes_green_174515_3840x2400.jpg");
     background-size: 2000px;
  }
  .contact .title::after{
@@ -559,7 +559,7 @@ section .title::after{
 
 /* footer styling */
 footer{
-    background: url("images/dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
+    background: url("dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
     padding: 20px 23px;
     color: white;
 }
